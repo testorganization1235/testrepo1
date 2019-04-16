@@ -23,11 +23,11 @@
     </snapshotRepository>
 </distributionManagement>  -->
 
-<distributionManagement>
+<!--<distributionManagement>
     <repository>
         <id>central</id>
         <name>A2ML24096-releases</name>
         <url>http://localhost:8081/artifactory/libs-release-local</url>
     </repository>
-</distributionManagement>
+</distributionManagement> -->
 </project>
